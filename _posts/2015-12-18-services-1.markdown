@@ -1,0 +1,10 @@
+---
+layout: default
+img: iPhone.png
+category: Services
+title: Software 
+description: |
+---
+
+I write software for iPhone, iPad, Mac OS X, watchOS and tvOS since the apple SDK came out.
+ 

@@ -1,0 +1,11 @@
+---
+layout: default
+img: imac.png
+category: Services
+title: Research & Development
+description: |
+---
+
+Let's just say I'm curious, love to learn and improve processes.
+Currently I'm working on <a href="https://boxxxed.nl">Boxxxed</a> together with <a href="https://elwinzuiderveld.nl">Elwin Zuiderveld.</a>
+In case you want more information or want some iOS development done, feel free to contact us.
